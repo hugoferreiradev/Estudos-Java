@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/PrimeiroPrograma/nbproject/private/
+/HoraDoSistema/nbproject/private/
+/HoraDoSistema/build/
+/IdiomaSistema/nbproject/private/
+/IdiomaSistema/build/
+/ResoluçãoTela/nbproject/private/
+/ResoluçãoTela/build/

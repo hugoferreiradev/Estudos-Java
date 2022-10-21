@@ -11,4 +11,4 @@ public class IdiomaSistema {
     }
 }
 
-// Pegar o idioma do sistema.
+// Pegar o idioma do sistema operacional.
